@@ -1,0 +1,3 @@
+16_03_13 - making the channel 2-D, fixing the multiple zero LLR symbols with different probabilities, The Arikan Transorms produce half the channel size - though incorrectly
+04_04_14 - both transforms works faster by producing a symmetric channel half the size
+16_04_14 - Compatibillity with conitious distributions
